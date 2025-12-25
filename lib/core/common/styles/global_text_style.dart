@@ -9,7 +9,7 @@ TextStyle getTextStyle({
   Color color = Colors.black,
 }) {
   return GoogleFonts.poppins(
-    fontSize: fontSize.sp,
+    fontSize: fontSize,
     fontWeight: fontWeight,
     color: color,
     height: height,
